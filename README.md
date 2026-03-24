@@ -1,3 +1,20 @@
-# html-authentication-poc
+# Bootstrap Authentication POC
 
-All pages are connected using anchor tags.There is no CSS and no JavaScript used.This is a basic HTML practice project.
+This project contains 5 pages using Bootstrap.
+
+Pages:
+
+- index.html (Login)
+- register.html
+- forgot-password.html
+- reset-password.html
+- dashboard.html
+
+Features:
+
+- Bootstrap styling
+- Responsive layout
+- Simple navigation
+- Custom CSS
+
+No backend is used.
